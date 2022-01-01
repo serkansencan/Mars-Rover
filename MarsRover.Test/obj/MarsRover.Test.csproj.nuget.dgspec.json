@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\MarsRovel\\MarsRovel\\MarsRover.Test\\MarsRover.Test.csproj": {}
+    "C:\\Projects\\MRover\\Mars-Rover\\MarsRover.Test\\MarsRover.Test.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\MarsRovel\\MarsRovel\\MarsRovel\\MarsRover.csproj": {
+    "C:\\Projects\\MRover\\Mars-Rover\\MarsRovel\\MarsRover.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\MarsRovel\\MarsRovel\\MarsRovel\\MarsRover.csproj",
+        "projectUniqueName": "C:\\Projects\\MRover\\Mars-Rover\\MarsRovel\\MarsRover.csproj",
         "projectName": "MarsRover",
-        "projectPath": "C:\\Projects\\MarsRovel\\MarsRovel\\MarsRovel\\MarsRover.csproj",
+        "projectPath": "C:\\Projects\\MRover\\Mars-Rover\\MarsRovel\\MarsRover.csproj",
         "packagesPath": "C:\\Users\\serkan.sencan\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\MarsRovel\\MarsRovel\\MarsRovel\\obj\\",
+        "outputPath": "C:\\Projects\\MRover\\Mars-Rover\\MarsRovel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Projects\\MarsRovel\\MarsRovel\\MarsRover.Test\\MarsRover.Test.csproj": {
+    "C:\\Projects\\MRover\\Mars-Rover\\MarsRover.Test\\MarsRover.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\MarsRovel\\MarsRovel\\MarsRover.Test\\MarsRover.Test.csproj",
+        "projectUniqueName": "C:\\Projects\\MRover\\Mars-Rover\\MarsRover.Test\\MarsRover.Test.csproj",
         "projectName": "MarsRover.Test",
-        "projectPath": "C:\\Projects\\MarsRovel\\MarsRovel\\MarsRover.Test\\MarsRover.Test.csproj",
+        "projectPath": "C:\\Projects\\MRover\\Mars-Rover\\MarsRover.Test\\MarsRover.Test.csproj",
         "packagesPath": "C:\\Users\\serkan.sencan\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\MarsRovel\\MarsRovel\\MarsRover.Test\\obj\\",
+        "outputPath": "C:\\Projects\\MRover\\Mars-Rover\\MarsRover.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,8 +90,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Projects\\MarsRovel\\MarsRovel\\MarsRovel\\MarsRover.csproj": {
-                "projectPath": "C:\\Projects\\MarsRovel\\MarsRovel\\MarsRovel\\MarsRover.csproj"
+              "C:\\Projects\\MRover\\Mars-Rover\\MarsRovel\\MarsRover.csproj": {
+                "projectPath": "C:\\Projects\\MRover\\Mars-Rover\\MarsRovel\\MarsRover.csproj"
               }
             }
           }

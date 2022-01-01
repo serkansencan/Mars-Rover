@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jToPcgifLFA9JhkWcMSN62Rztz9Fs5phkEGzqnTElIEoxWqhkgT+jeedEjS2zJFHBntT3lSqGOZxJvOvfqB9RQ==",
+  "dgSpecHash": "mSribe5wAllgTiZUFAqMj7sKWN5vemwt4ejOeJqakyMAeJqPWJvHUXq/0wTchmWjyFEEm+u5ZbvSjtE7oXHQbg==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\MarsRovel\\MarsRovel\\MarsRovel\\MarsRover.csproj",
+  "projectFilePath": "C:\\Projects\\MRover\\Mars-Rover\\MarsRovel\\MarsRover.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

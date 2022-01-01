@@ -1,0 +1,16 @@
+C:\Projects\MarsRovel\MarsRovel\MarsRovel\bin\Debug\net5.0\MarsRovel.exe
+C:\Projects\MarsRovel\MarsRovel\MarsRovel\bin\Debug\net5.0\MarsRovel.deps.json
+C:\Projects\MarsRovel\MarsRovel\MarsRovel\bin\Debug\net5.0\MarsRovel.runtimeconfig.json
+C:\Projects\MarsRovel\MarsRovel\MarsRovel\bin\Debug\net5.0\MarsRovel.runtimeconfig.dev.json
+C:\Projects\MarsRovel\MarsRovel\MarsRovel\bin\Debug\net5.0\MarsRovel.dll
+C:\Projects\MarsRovel\MarsRovel\MarsRovel\bin\Debug\net5.0\ref\MarsRovel.dll
+C:\Projects\MarsRovel\MarsRovel\MarsRovel\bin\Debug\net5.0\MarsRovel.pdb
+C:\Projects\MarsRovel\MarsRovel\MarsRovel\obj\Debug\net5.0\MarsRovel.csproj.AssemblyReference.cache
+C:\Projects\MarsRovel\MarsRovel\MarsRovel\obj\Debug\net5.0\MarsRovel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MarsRovel\MarsRovel\MarsRovel\obj\Debug\net5.0\MarsRovel.AssemblyInfoInputs.cache
+C:\Projects\MarsRovel\MarsRovel\MarsRovel\obj\Debug\net5.0\MarsRovel.AssemblyInfo.cs
+C:\Projects\MarsRovel\MarsRovel\MarsRovel\obj\Debug\net5.0\MarsRovel.csproj.CoreCompileInputs.cache
+C:\Projects\MarsRovel\MarsRovel\MarsRovel\obj\Debug\net5.0\MarsRovel.dll
+C:\Projects\MarsRovel\MarsRovel\MarsRovel\obj\Debug\net5.0\ref\MarsRovel.dll
+C:\Projects\MarsRovel\MarsRovel\MarsRovel\obj\Debug\net5.0\MarsRovel.pdb
+C:\Projects\MarsRovel\MarsRovel\MarsRovel\obj\Debug\net5.0\MarsRovel.genruntimeconfig.cache
